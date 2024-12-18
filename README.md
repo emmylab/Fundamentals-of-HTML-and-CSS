@@ -5,4 +5,3 @@ HTML means Hypertext Markup Language which is different from a programming langu
 
 ## CSS 
 CSS means Cascading Style Sheet which is used to beautify or style the content of a web page 
-

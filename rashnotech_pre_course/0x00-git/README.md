@@ -1,5 +1,7 @@
-# Git and Github 
-Git is used to enable colaboration and track your code and keep history of your code changes 
+# Fundamentals of HTML and CSS
+This repository contains modules from beginners to intermidiate level on mastering HTML and CSS
+## HTML 
+HTML means Hypertext Markup Language which is different from a programming language. HTML is used in structuring the web layout or content 
 
-## Github
-Github is a powerful online platform that keeps track of your code. It is a repository 
+## CSS 
+CSS means Cascading Style Sheet which is used to beautify or style the content of a web page 
